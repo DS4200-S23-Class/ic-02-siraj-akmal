@@ -1,0 +1,25 @@
+body {
+	font-family: Arial;
+}
+
+
+.Title {
+	text-align: center;
+}
+
+.container {
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+
+#p1 {
+	color: forestgreen;
+}
+
+.shape {
+	fill: lavender;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
