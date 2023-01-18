@@ -1,7 +1,7 @@
 # ic-02
 ic-02 - Intro to HTML and CSS
 
-(GitHub Pages)[insert your hyperlink here]
+Link: https://ds4200-s23-class.github.io/ic-02-siraj-akmal/
 
 ## Purpose
 
